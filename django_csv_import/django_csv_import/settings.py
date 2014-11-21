@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_csv_import.django_csv_import',
+    'csvimport.app.CSVImportConf',
 )
 
 MIDDLEWARE_CLASSES = (
