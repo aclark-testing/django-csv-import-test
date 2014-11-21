@@ -1,2 +1,3 @@
 Django
 django-admin-bootstrapped
+django-csv-import
